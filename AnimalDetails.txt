@@ -1,0 +1,3 @@
+Penguin;adam;3;blue;30.00;swim speed(mph): 10.0
+Parrot;lucas;4;red;20.00;vocabulary size: 30
+Lion;ben;6;green;140.00;favourite toy: ball

@@ -1,0 +1,2 @@
+ZooName=Ulster Zoo
+TotalAnimals=3
